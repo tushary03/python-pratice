@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-3.12-blue.svg)
+![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 # python-pratice
 
 > Welcome to my personal Python practice space! This repository is a living journal of my coding journey, a place where I experiment, learn, and refine my Python skills.
