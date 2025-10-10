@@ -1,8 +1,9 @@
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 # python-pratice
 
 > Welcome to my personal Python practice space! This repository is a living journal of my coding journey, a place where I experiment, learn, and refine my Python skills.
 
-This is my digital workshop, a place for daily exercises, small projects, and coding challenges. It's all about the process of learning and the joy of building.
+**This is my digital workshop, a place for daily exercises, small projects, and coding challenges. It's all about the process of learning and the joy of building.**
 ---
 My Goals
 - sharpen the Saw: To consistently practice Python and keep my skills sharp.
