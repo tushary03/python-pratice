@@ -1,6 +1,6 @@
 # python-pratice
-🐍 Python Practice
-Welcome to my personal Python practice space! This repository is a living journal of my coding journey, a place where I experiment, learn, and refine my Python skills.
+
+> Welcome to my personal Python practice space! This repository is a living journal of my coding journey, a place where I experiment, learn, and refine my Python skills.
 
 This is my digital workshop, a place for daily exercises, small projects, and coding challenges. It's all about the process of learning and the joy of building.
 
