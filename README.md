@@ -37,6 +37,8 @@ This is my digital workshop, a place for daily exercises, small projects, and co
 
 - Small Web Apps
 </p>
+
+
 >And anything else that sparks my curiosity!
 
 How I Use This
