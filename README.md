@@ -1,6 +1,12 @@
-![Python](https://img.shields.io/badge/python-3.13-blue.svg)
-# python-pratice
+<p align="center">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
+</p>
 
+<h1 align="center">Python Practice Repository 🐍</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/python-3.13-blue.svg" alt="Python Version"/>
+</p>
 > Welcome to my personal Python practice space! This repository is a living journal of my coding journey, a place where I experiment, learn, and refine my Python skills.
 ---
 This is my digital workshop, a place for daily exercises, small projects, and coding challenges. It's all about the process of learning and the joy of building.
