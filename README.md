@@ -14,8 +14,11 @@
 <h3>My Goals</h3>
 <p>
 - sharpen the Saw: To consistently practice Python and keep my skills sharp.
+  
 - Explore New Concepts: To dive into new libraries, frameworks, and Python features.
+  
 - Track My Progress: To see how my coding style and knowledge evolve over time.
+  
 - Build a Habit: To make coding a regular part of my routine.
 </p>
 <h3>What's Inside?</h3>
