@@ -1,0 +1,22 @@
+Day - 1 
+----------------------------------------------
+Theme - python warmup
+----------------------------------------------
+
+[Core Concepts]
+
+variables, data types,
+input/output, f-strings
+
+----------------------------------------------------------------------------
+[Project]
+
+-“Interactive Bio” — a script that talks with the user and formats info like a mini chatbot
+----------------------------------------------------------------------------
+[Extra-add-up-personal]
+
+-adding up UI and Logic to make it more appealing
+- adding UI
+  		
+- adding Logic
+	
