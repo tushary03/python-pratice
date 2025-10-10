@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="python" width="100" height="100"/>
+<img src="https://www.python.org/static/community_logos/python-logo.png">
 </p>
 
 <h1 align="center">Python Practice Repository 🐍</h1>
