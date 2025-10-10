@@ -9,9 +9,9 @@
 </p>
 <p>Welcome to my personal Python practice space! This repository is a living journal of my coding journey, a place where I experiment, learn, and refine my Python skills.</p>
 
-This is my digital workshop, a place for daily exercises, small projects, and coding challenges. It's all about the process of learning and the joy of building.
+<i>This is my digital workshop, a place for daily exercises, small projects, and coding challenges. It's all about the process of learning and the joy of building.<i>
 
-My Goals
+<h3>My Goals</h3>
 - sharpen the Saw: To consistently practice Python and keep my skills sharp.
 - Explore New Concepts: To dive into new libraries, frameworks, and Python features.
 - Track My Progress: To see how my coding style and knowledge evolve over time.
