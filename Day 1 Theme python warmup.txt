@@ -19,7 +19,9 @@ input/output, f-strings.
 {Adding up UI and Logic to make it more appealing and look like those self-help chatbot but better}
 
 - adding UI
-       -
+       - for interactive user and chatbot conversation (typical chatbot design)
+       - sleak and modern look
+       - simple and easy less to navigate
 - adding Logic
        -
 - 
