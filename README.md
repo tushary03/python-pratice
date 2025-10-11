@@ -36,6 +36,7 @@ This is my digital workshop, a place for daily exercises, small projects, and co
 - API Integrations
 
 - Small Web Apps
+  
 </p>
 
 
