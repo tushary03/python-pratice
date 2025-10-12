@@ -10,6 +10,7 @@ time.sleep(1)
 
 #age input and process dummy in between next interest input
 age = int(input("Bot: How old are you \n You: "))
+
 #conditional according to age of the user/guest
 if age <= 18:
     print('Bot: Ah, a young explorer!')
