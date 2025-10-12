@@ -46,3 +46,6 @@ How I Use This
 This is a personal repository, and its structure might change as I explore new things. Feel free to look around, but please note that this is primarily for my own learning and development.
 
 Happy coding!
+
+
+**⚠ ️warning, This repository is part of my learning journey. Expect experiments, bugs, and exploration!**
