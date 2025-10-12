@@ -6,7 +6,8 @@ Theme - python warm-up
 [Core Concepts]
 
 variables, data types,
-input/output, f-strings.
+input/output, f-strings
+logic (if-elif-else).
 
 ----------------------------------------------------------------------------
 [Project]
