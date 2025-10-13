@@ -1,3 +1,5 @@
+# Warm-up
+
 import time
 
 # variables for input
