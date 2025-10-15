@@ -1,27 +1,31 @@
-# theme - Refactor from Smart Bot [S-2]
+#theme - clean-up and refactor
+
 import time
+print("===============================================================")
+print("                      BOT v.0.4                                ")
+print("===============================================================")
 
-# name input function
-name = input("Bot: Howdy, Whats your name?\n You: ")
+name = input("\nBot: howdy!, whats your name?:\n You: ")
 time.sleep(0.5)
-print("Processing . . .")
+print("Processing. . .")
 time.sleep(1)
 
-# user response
-user_response = input(f"Bot: so hey, {name} how are you feeling today?\n You: ")
+user_response = input("Bot: how are you feeling today? [select one -> happy,bored,tired,excited]--[type it out]:\n You: ")
 time.sleep(0.5)
-print("Processing . . .")
+print("Processing. . .")
 time.sleep(1)
 
-# mood variables to counter or reply the user_response
+
+#mood variables to counter or reply the user response
 keyword_happy = "happy"
 keyword_bored = "bored"
 keyword_tired = "tired"
 keyword_excited = "excited"
 
-# inside the bored elif condition needed blocks
+#inside the bored elif condition needed blocks
 keyword_joke = "joke"
 keyword_fact = "fact"
+
 
 # Functions for user response
 def happy_mood():
@@ -58,9 +62,15 @@ def excited():
 #logic for response by calling function.
 if user_response.lower() == keyword_happy:
     happy_mood()
+    print(f"\n\nBot: Hope the day goes as joyful as {user_response},Bye")
 elif user_response.lower() == keyword_bored:
     bored()
+    print(f"\n\nBot: Hope this helps, Bye")
 elif user_response.lower() == keyword_tired:
     tired()
+    print(f"\n\nBot: Have a good rest, Bye")
 elif user_response.lower() == keyword_excited:
     excited()
+    print(f"\n\nBot: I hope the rest of day goes same as {user_response}, bye")
+
+else: print("\n\nBot: Wrong input, not specified!")

@@ -19,7 +19,7 @@ keyword_bored = "bored"
 keyword_tired = "tired"
 keyword_excited = "excited"
 
-#inside the bored elif condition neede blocks
+#inside the bored elif condition needed blocks
 keyword_joke = "joke"
 keyword_fact = "fact"
 
