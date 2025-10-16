@@ -5,12 +5,12 @@ print("===============================================================")
 print("                      BOT v.0.4                                ")
 print("===============================================================")
 
-name = input("\nBot: howdy!, whats your name?:\n You: ")
+name = input("\nBot: howdy!, whats your name?\n You: ")
 time.sleep(0.5)
 print("Processing. . .")
 time.sleep(1)
 
-user_response = input("Bot: how are you feeling today? [select one -> happy,bored,tired,excited]--[type it out]:\n You: ")
+user_response = input("Bot: how are you feeling today? [select one -> happy,bored,tired,excited]--[type it out]\n You: ")
 time.sleep(0.5)
 print("Processing. . .")
 time.sleep(1)
@@ -62,15 +62,17 @@ def excited():
 #logic for response by calling function.
 if user_response.lower() == keyword_happy:
     happy_mood()
-    print(f"\n\nBot: Hope the day goes as joyful as {user_response},Bye")
+    print(f"\nBot: Hope the day goes as joyful as {user_response},Bye.")
 elif user_response.lower() == keyword_bored:
     bored()
-    print(f"\n\nBot: Hope this helps, Bye")
+    print(f"\nBot: Hope this helps, Bye.")
 elif user_response.lower() == keyword_tired:
     tired()
-    print(f"\n\nBot: Have a good rest, Bye")
+    print(f"\nBot: Have a good rest, Bye.")
 elif user_response.lower() == keyword_excited:
     excited()
     print(f"\n\nBot: I hope the rest of day goes same as {user_response}, bye")
 
 else: print("\n\nBot: Wrong input, not specified!")
+
+print("===============================================================")
