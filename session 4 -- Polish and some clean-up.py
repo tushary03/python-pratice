@@ -62,7 +62,7 @@ def excited():
 #logic for response by calling function.
 if user_response.lower() == keyword_happy:
     happy_mood()
-    print(f"\nBot: Hope the day goes as joyful as {user_response},Bye.")
+    print(f"\nBot: Hope the day goes ,Bye.")
 elif user_response.lower() == keyword_bored:
     bored()
     print(f"\nBot: Hope this helps, Bye.")
@@ -71,7 +71,7 @@ elif user_response.lower() == keyword_tired:
     print(f"\nBot: Have a good rest, Bye.")
 elif user_response.lower() == keyword_excited:
     excited()
-    print(f"\n\nBot: I hope the rest of day goes same as {user_response}, bye")
+    print(f"\n\nBot: I hope the rest of day goes as good as {user_response}, bye")
 
 else: print("\n\nBot: Wrong input, not specified!")
 
